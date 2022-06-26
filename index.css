@@ -8,7 +8,7 @@
 .main {
     height: 546px;
     position: relative;
-    background-image: url(../img/banner-bg.jpg);
+    background-image: url(https://raw.githubusercontent.com/CSAMK/luckyDraw/main/img/banner-bg.jpg);
     overflow: hidden;
 }
 
